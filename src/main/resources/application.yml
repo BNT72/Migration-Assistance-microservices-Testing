@@ -22,5 +22,4 @@ eureka:
       defaultZone: http://localhost:8083/eureka
 
 mongo:
-  migration: map/src/main/resources/mongo/migration/MigrationTest.json
-  url: mongodb://localhost:27017/mongo
+  migration: testing\src\main\resources\migration\MigrationTest.json

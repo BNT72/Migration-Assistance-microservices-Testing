@@ -1,5 +1,6 @@
-package com.cloud.testing;
+package com.cloud.testing.model;
 
+import com.cloud.testing.model.ETestType;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,7 @@
-package com.cloud.testing;
+package com.cloud.testing.dto;
 
 
+import com.cloud.testing.model.TestQuestionEntity;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
